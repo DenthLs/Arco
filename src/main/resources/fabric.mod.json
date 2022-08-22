@@ -3,16 +3,16 @@
   "id": "arco",
   "version": "1.0",
   "name": "Arco",
-  "description": "Этот мод добавляет несколько луков",
+  "description": "This mod adds several bows that can be adjusted for damage",
   "authors": [
     "DenthLs"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/DenthLs",
+    "sources": "https://github.com/DenthLs/Arco"
   },
   "license": "CC0-1.0",
-  "icon": "assets/arco/icon.png",
+  "icon": "assets/arco/textures/item/corrupted_crossbow.png",
   "environment": "*",
   "entrypoints": {
     "main": [
