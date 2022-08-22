@@ -1,0 +1,29 @@
+{
+  "itemGroup.arco.bows": "Bows",
+
+  "item.arco.ancient_bow": "Ancient Bow",
+  "item.arco.mechanical_shortbow": "Mechanical Bow",
+  "item.arco.web_bow": "Web Bow",
+  "item.arco.weeping_vine_bow": "Weeping Vine Bow",
+  "item.arco.winters_touch": "Winters Touch Bow",
+
+  "item.arco.corrupted_crossbow": "Corrupted Crossbow",
+  "item.arco.doom_crossbow": "Doom Crossbow",
+  "item.arco.feral_soul_crossbow": "Feral Soul Crossbow",
+  "item.arco.pride_of_the_piglins": "Pride Of The Piglins Crossbow",
+  "item.arco.voidcaller_crossbow": "Void Caller Crossbow",
+
+  "text.autoconfig.arco.title": "Arco Config",
+
+  "text.autoconfig.arco.option.ancientdamage": "Ancient Bow Damage",
+  "text.autoconfig.arco.option.mechanicaldamage": "Mechanical Bow Damage",
+  "text.autoconfig.arco.option.webdamage": "Web Bow Damage",
+  "text.autoconfig.arco.option.wintersdamage": "Winters Touch Bow Damage",
+  "text.autoconfig.arco.option.weepingdamage": "Weeping Vine Bow Damage",
+  "text.autoconfig.arco.option.corrupteddamage": "Corrupted Crossbow Damage",
+  "text.autoconfig.arco.option.doomdamage": "Doom Crossbow Damage",
+  "text.autoconfig.arco.option.pridedamage": "Pride Of The Piglins Crossbow Damage",
+  "text.autoconfig.arco.option.feraldamage": "Feral Soul Crossbow Damage",
+  "text.autoconfig.arco.option.voiddamage": "Void Caller Crossbow Damage"
+
+}

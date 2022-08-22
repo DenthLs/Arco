@@ -1,0 +1,28 @@
+{
+  "itemGroup.arco.bows": "Луки",
+
+  "item.arco.ancient_bow": "Древний лук",
+  "item.arco.mechanical_shortbow": "Механический лук",
+  "item.arco.web_bow": "Тканный лук",
+  "item.arco.weeping_vine_bow": "Лук плачущей лозы",
+  "item.arco.winters_touch": "Лук прикосновения зимы",
+
+  "item.arco.corrupted_crossbow": "Поврежденный арбалет",
+  "item.arco.doom_crossbow": "Арбалет судьбы",
+  "item.arco.feral_soul_crossbow": "Арбалет дикой души",
+  "item.arco.pride_of_the_piglins": "Гордость пиглинов",
+  "item.arco.voidcaller_crossbow": "Арбалет призывателя пустоты",
+
+  "text.autoconfig.arco.title": "Конфигурация Arco",
+
+  "text.autoconfig.arco.option.ancientdamage": "Урон древнего лука",
+  "text.autoconfig.arco.option.mechanicaldamage": "Урон механического лука",
+  "text.autoconfig.arco.option.webdamage": "Урон тканного лука",
+  "text.autoconfig.arco.option.wintersdamage": "Урон лука прикосновения зимы",
+  "text.autoconfig.arco.option.weepingdamage": "Урон лука плачущей лозы",
+  "text.autoconfig.arco.option.corrupteddamage": "Урон поврежденного арбалета",
+  "text.autoconfig.arco.option.doomdamage": "Урон арбалета судьбы",
+  "text.autoconfig.arco.option.pridedamage": "Урон гордости пиглинов",
+  "text.autoconfig.arco.option.feraldamage": "Урон арбалета дикой души",
+  "text.autoconfig.arco.option.voiddamage": "Урон арбалета призывателя пустоты"
+}

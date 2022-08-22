@@ -1,0 +1,8 @@
+{
+  "name": "Терра",
+  "landing_text": "Здесь вы можете найти практически всю, необходимую вам, информацию о сервере",
+  "model":"arco:terra_book",
+  "show_progress": "false",
+  "subtitle": "Гайд по серверу Терра",
+  "creative_tab": "arco.bows"
+}
