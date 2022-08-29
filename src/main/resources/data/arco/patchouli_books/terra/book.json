@@ -1,8 +1,8 @@
 {
-  "name": "Терра",
-  "landing_text": "Здесь вы можете найти практически всю, необходимую вам, информацию о сервере",
+  "name": "patchouli_book.name",
+  "landing_text": "patchouli_book.landing_text",
   "model":"arco:terra_book",
   "show_progress": "false",
-  "subtitle": "Гайд по серверу Терра",
+  "subtitle": "patchouli_book.subtitle",
   "creative_tab": "arco.bows"
 }
