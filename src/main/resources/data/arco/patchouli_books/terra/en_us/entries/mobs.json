@@ -1,0 +1,11 @@
+{
+  "name": "Hostile Mobs",
+  "icon": "minecraft:gunpowder",
+  "category": "arco:main_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The characteristics of all hostile mobs have been increased to make it necessary to team up. Also, each mob drops a certain amount of coins."
+    }
+  ]
+}

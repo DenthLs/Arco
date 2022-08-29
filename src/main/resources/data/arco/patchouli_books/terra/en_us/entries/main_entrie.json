@@ -1,0 +1,11 @@
+{
+  "name": "Basic information",
+  "icon": "minecraft:grass_block",
+  "category": "arco:main_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "You all know very well what kind of server it is, but there are a few things you need to know before you start playing. You must learn the server rules that are on the site (Ignorance is no excuse). And you should understand that not everything is decided by the rules, for a comfortable and enjoyable game, you just need to be adequate and show respect for all server players"
+    }
+  ]
+}
