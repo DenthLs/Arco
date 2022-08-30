@@ -28,6 +28,10 @@
         },
         "symmetrical": true
       }
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Build a portal closer to the spawn, because if you build a portal too far, then when you get into the world of eden, you will die."
     }
   ]
 }

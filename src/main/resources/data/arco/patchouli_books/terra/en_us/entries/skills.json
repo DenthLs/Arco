@@ -1,0 +1,15 @@
+{
+  "name": "Skills",
+  "icon": "minecraft:iron_sword",
+  "category": "arco:main_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Leveling up skills is an integral part of the gameplay on Terra and should be taken with the utmost seriousness, because there is no way to reset skills. You must think in advance which way you will go."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "We recommend that you choose 4 skills and upgrade them to the maximum. You can also combine some skills, this will give you an advantage. P.S. Don't upgrade 'Hunger', it's a useless skill."
+    }
+  ]
+}

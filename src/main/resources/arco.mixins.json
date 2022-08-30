@@ -8,6 +8,9 @@
   "client": [
     "HopperMixin"
   ],
+  "server": [
+    "HopperMixin"
+  ],
   "injectors": {
     "defaultRequire": 1
   }

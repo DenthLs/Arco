@@ -1,0 +1,26 @@
+{
+  "name": "Новые предметы",
+  "icon": "minecraft:sculk_sensor",
+  "category": "arco:main_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "На Терре вы можете создать блок света и скалк-сенсор"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:sculk_sensor",
+      "link_recipe": true
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:light",
+      "link_recipe": true
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecraft:sculk_sensor",
+      "recipe2": "minecraft:light"
+    }
+  ]
+}
