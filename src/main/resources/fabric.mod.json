@@ -16,7 +16,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.arco.Entry"
+      "net.fabricmc.arco.Main"
     ],
     "client": [
       "net.fabricmc.arco.ClientMod"

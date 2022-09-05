@@ -24,10 +24,6 @@
   "text.autoconfig.arco.option.doomdamage": "Урон арбалета судьбы",
   "text.autoconfig.arco.option.pridedamage": "Урон гордости пиглинов",
   "text.autoconfig.arco.option.feraldamage": "Урон арбалета дикой души",
-  "text.autoconfig.arco.option.voiddamage": "Урон арбалета призывателя пустоты",
-
-  "patchouli_book.name": "Терра",
-  "patchouli_book.subtitle": "Гайд по серверу Терра",
-  "patchouli_book.landing_text": "Здесь вы можете найти практически всю, необходимую вам, информацию о сервере."
+  "text.autoconfig.arco.option.voiddamage": "Урон арбалета призывателя пустоты"
 
 }

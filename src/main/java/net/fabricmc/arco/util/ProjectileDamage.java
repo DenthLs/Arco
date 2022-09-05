@@ -1,7 +1,8 @@
-package net.fabricmc.arco.items;
+package net.fabricmc.arco.util;
 
 import me.shedaniel.autoconfig.AutoConfig;
 import net.fabricmc.arco.config.BowDamageConfig;
+import net.fabricmc.arco.items.ModItems;
 import net.minecraft.item.Item;
 import net.projectiledamage.api.IProjectileWeapon;
 

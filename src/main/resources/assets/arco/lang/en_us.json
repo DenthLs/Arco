@@ -24,11 +24,6 @@
   "text.autoconfig.arco.option.doomdamage": "Doom Crossbow Damage",
   "text.autoconfig.arco.option.pridedamage": "Pride Of The Piglins Crossbow Damage",
   "text.autoconfig.arco.option.feraldamage": "Feral Soul Crossbow Damage",
-  "text.autoconfig.arco.option.voiddamage": "Void Caller Crossbow Damage",
-
-
-  "patchouli_book.name": "Terra",
-  "patchouli_book.subtitle": "Terra server guide",
-  "patchouli_book.landing_text": "Here you can find almost all the information you need about the server. RUS: Если вы выбрали русский язык, но книга всё равно на английском, то перезайдите на сервер."
+  "text.autoconfig.arco.option.voiddamage": "Void Caller Crossbow Damage"
 
 }
