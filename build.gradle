@@ -14,12 +14,10 @@ repositories {
     maven { url "https://jitpack.io" }
     maven { url "https://maven.shedaniel.me/" }
     maven { url "https://maven.terraformersmc.com/" }
-    maven { url 'https://maven.blamejared.com' }
 
 }
 
 dependencies {
-    modImplementation "vazkii.patchouli:Patchouli:1.18.2-71.1-FABRIC"
     modApi("com.terraformersmc:modmenu:3.2.3")
     modImplementation 'com.github.ZsoltMolnarrr:ProjectileDamage:1.18.2-1.0.7'
     minecraft "com.mojang:minecraft:${project.minecraft_version}"

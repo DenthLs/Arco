@@ -1,7 +1,6 @@
 package net.fabricmc.arco.items;
 
-import net.fabricmc.arco.Entry;
-import net.fabricmc.arco.ModItemGroup;
+import net.fabricmc.arco.Main;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.item.*;
 import net.minecraft.util.Identifier;
@@ -37,7 +36,7 @@ public class ModItems {
 
 //  REGISTRATION
     public static Item registerItem(String name, Item item) {
-        return Registry.register(Registry.ITEM, new Identifier(Entry.ARCO, name), item);
+        return Registry.register(Registry.ITEM, new Identifier(Main.MOD_ID, name), item);
     }
 //  INITIALISATION FUNCTION
     public static void registerModItems(){}

@@ -11,12 +11,12 @@
     "homepage": "https://github.com/DenthLs",
     "sources": "https://github.com/DenthLs/Arco"
   },
-  "license": "CC0-1.0",
+  "license": "MIT",
   "icon": "assets/arco/textures/item/corrupted_crossbow.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.arco.Entry"
+      "net.fabricmc.arco.Main"
     ],
     "client": [
       "net.fabricmc.arco.ClientMod"

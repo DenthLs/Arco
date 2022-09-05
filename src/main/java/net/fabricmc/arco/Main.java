@@ -5,11 +5,11 @@ import me.shedaniel.autoconfig.serializer.GsonConfigSerializer;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.arco.config.BowDamageConfig;
 import net.fabricmc.arco.items.ModItems;
-import net.fabricmc.arco.items.ProjectileDamage;
+import net.fabricmc.arco.util.ProjectileDamage;
 
 
-public class Entry implements ModInitializer {
-    public static final String ARCO = "arco";
+public class Main implements ModInitializer {
+    public static final String MOD_ID = "arco";
     @Override
     public void onInitialize() {
 

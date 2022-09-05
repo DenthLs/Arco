@@ -7,8 +7,6 @@ public class ClientMod implements ClientModInitializer {
 
     @Override
     public void onInitializeClient() {
-
         ModModelPredicateProvider.registerModels();
-
     }
 }
